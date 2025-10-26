@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+pydantic
+pymongo
+pip freeze > requirements.txt
